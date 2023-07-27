@@ -1,1 +1,1 @@
-# Explorer-Stage02-DesafioFinal
+# Desafio proposto ao final do estágio 2 do curso explorer da Rocketseat
